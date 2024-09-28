@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: rgb(12, 208, 45);
+    padding: 20px;
+    }
+        
+    body{
+    background-color: aqua; } 
+    p{
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+      
+    }
+    img{
+      display: block;
+      margin: 0 auto;
+      width: 600px;
+      height: 500px;
+    }
+    .logo{
+      width: 200px;
+      height: 200px;
+    }
+    h2 {
+      background-color: greenyellow;
+      text-align: center;
+      padding: 19px;
+      
+    }
+    a{
+      background-color: aquamarine;
+      padding: 20px;
+      margin: 20px;
+      display: block;
+      text-align: center;
+      font-size: large;
+      color: black;
+    }
